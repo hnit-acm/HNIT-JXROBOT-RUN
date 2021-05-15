@@ -14,8 +14,11 @@ SDK Python 2.7 SDK Binaries
 
 <img alt="NAO 机器人" height="400" src="./picture/1627056-20190918212849364-914615044.jpg">
 
-![NAO 机器人](./picture/1627056-20190918212849364-914615044.jpg)
 我们的实验室
-![2114实验室](./picture/IMG_20201014_164842.jpg)
+
+<img alt="2114实验室" height="400" src= "./picture/IMG_20201014_164842.jpg">
+
 奖杯
-![](./picture/1627056-20190910153341654-2105101336.jpg)
+
+<img height="400" src= "./picture/1627056-20190910153341654-2105101336.jpg" alt="">
+
